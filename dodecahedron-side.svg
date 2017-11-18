@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="630"
+   height="630"
+   id="svg2985">
+  <defs
+     id="defs2987" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-422.35975)"
+     id="layer1">
+    <path
+       d="m 427.32,962.35975 -179.64,0 0,-36 -13.68,0 0,36 -54,0 m 247.32,0 0,-36 13.68,0 0,36 54,0"
+       id="rect3034"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 571.42608,727.14441 -55.51181,170.84784 -34.23803,-11.1247 -4.22736,13.0105 34.23804,11.1246 L 495,962.35975 m 76.42608,-235.21534 -34.23803,-11.12461 4.22735,-13.01046 34.23804,11.12462 16.68691,-51.35706"
+       id="path3060"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 392.25423,517.40585 145.33186,105.58975 -21.16036,29.12458 11.0674,8.04092 21.16026,-29.12462 43.68696,31.74042 m -200.08612,-145.37105 -21.16027,29.1246 -11.06736,-8.0409 21.16028,-29.12461 -43.68693,-31.7404"
+       id="path3062"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 137.41385,622.99562 145.33184,-105.58978 21.16021,29.12469 11.06738,-8.04094 -21.16028,-29.12461 43.68695,-31.74044 m -200.0861,145.37108 21.16026,29.12461 -11.06735,8.04091 -21.16027,-29.12462 -43.68692,31.74042"
+       id="path3064"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 159.08567,897.99226 103.57383,727.14443 137.81192,716.0199 133.58454,703.00941 99.34651,714.13403 82.65957,662.77694 m 76.4261,235.21532 34.23803,-11.1246 4.22736,13.01045 -34.23804,11.12461 16.68693,51.35706"
+       id="path3066"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g3099" />
+    <path
+       d="m 146.46346,961.12864 -16.09983,-8.0499 -16.09966,32.1994 -12.23585,-6.11792 16.09966,-32.19939 -16.09979,-8.04988 -27.224338,54.4488 -60.875124,-2e-5 0,18.00017 36.000008,0 7.7e-5,13.6801 -36.000005,0 -6.9e-5,18.0001 91.579291,0 z"
+       id="path3107"
+       style="fill:none;stroke:#000000;stroke-width:1" />
+  </g>
+</svg>
